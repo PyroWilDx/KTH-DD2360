@@ -1,0 +1,10 @@
+.vscode
+
+example1
+example2
+example3
+example4
+test
+mnist_run
+persist.txt
+*.o
